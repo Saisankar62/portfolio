@@ -47,7 +47,7 @@ It includes:
 
 
 ## 🧑‍🎓 Author
-**Saisankar Balleda****  
+**Saisankar Balleda**
 - 🌐 [Portfolio](https://portfolio-vocs.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/saisankar-balleda)  
 - 🐙 [GitHub](https://github.com/Saisankar62)
