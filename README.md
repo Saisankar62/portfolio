@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This project showcases my skills, projects, and experience as a developer.
 
 ---
-
+<img width="1894" height="892" alt="Image" src="https://github.com/user-attachments/assets/0432f2df-aee7-4566-a4a8-08c61af4934e" />
 
 
 
