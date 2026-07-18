@@ -4,14 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Saisankar Balleda - Portfolio</title>
-    <link rel="icon" href="https://portfolio-vocs.vercel.app/profilept.png">
+    <a href="#" class="profile-link">
+      <img src="https://portfolio-vocs.vercel.app/profilept.png" alt="Profile">
+    </a>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
         html {
             scroll-behavior: smooth;
         }
-        
+        .profile-link img {
+           width: 80px;         /* Match width and height */
+           height: 80px;
+           border-radius: 50%;  /* Makes the image circular */
+           object-fit: cover;   /* Prevents stretching */
+        }
+
         .fade-in {
             opacity: 0;
             transform: translateY(30px);
